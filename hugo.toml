@@ -1,0 +1,4 @@
+baseURL = 'https://diversida.de/'
+languageCode = 'pt-br'
+title = 'Diversida.de'
+theme = 'ananke'
